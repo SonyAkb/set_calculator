@@ -1,0 +1,13 @@
+﻿  All_Functions.cpp
+  Custom_Set.cpp
+C:\Users\sofia\source\repos\Semester 3\DM 1\All_Functions.cpp(105,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\source\repos\Semester 3\DM 1\All_Functions.cpp(197,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\source\repos\Semester 3\DM 1\All_Functions.cpp(240,34): warning C4101: e: неиспользованная локальная переменная
+C:\Users\sofia\source\repos\Semester 3\DM 1\All_Functions.cpp(302,10): warning C4101: flag_tmp: неиспользованная локальная переменная
+C:\Users\sofia\source\repos\Semester 3\DM 1\All_Functions.cpp(333,10): warning C4101: flag_tmp: неиспользованная локальная переменная
+C:\Users\sofia\source\repos\Semester 3\DM 1\All_Functions.cpp(361,47): warning C4101: tmp: неиспользованная локальная переменная
+C:\Users\sofia\source\repos\Semester 3\DM 1\Custom_Set.cpp(99,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+C:\Users\sofia\source\repos\Semester 3\DM 1\main.cpp(5,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  DM 1.vcxproj -> C:\Users\sofia\source\repos\Semester 3\x64\Debug\DM 1.exe

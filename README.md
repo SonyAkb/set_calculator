@@ -42,7 +42,7 @@ ____
 Прежде всего программа запрашивает у пользователя количество множеств.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0852268f-94c0-4e47-86fa-3a52c9dc26da" alt="image" style="width:90%; height:auto;">
+<img src="https://github.com/user-attachments/assets/0852268f-94c0-4e47-86fa-3a52c9dc26da" alt="image" style="width:60%; height:auto;">
 </p>
 
 Далее программа запрашивает количество элементов в множестве, а после предлагает на выбор несколько вариантов создания множества:
@@ -58,7 +58,7 @@ ____
 Программа самостоятельно генерирует множество из случайных элементов.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/b3fd8a51-fc18-4134-a5c5-740dee8064df" alt="image" style="width:90%; height:auto;">
+<img src="https://github.com/user-attachments/assets/b3fd8a51-fc18-4134-a5c5-740dee8064df" alt="image" style="width:60%; height:auto;">
 </p>
 
 2) Ввод множества с клавиатуры
@@ -66,7 +66,7 @@ ____
 Программа запрашивает каждый элемент у пользователя. Если пользователь ввел некорректный элемент или повторил уже существующий, то программа оповестит его об этом.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/03a28c62-029c-4e1b-a529-9b34061662db" alt="image" style="width:90%; height:auto;">
+<img src="https://github.com/user-attachments/assets/03a28c62-029c-4e1b-a529-9b34061662db" alt="image" style="width:80%; height:auto;">
 </p>
 
 3) Создание множества по условиям
@@ -74,13 +74,13 @@ ____
 Программа задает ряд вопросов и по итогу создает множество, которое удовлетворяет условиям.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/23ba8e8a-cc7c-4711-923d-0643619d7b0c" alt="image" style="width:90%; height:auto;">
+<img src="https://github.com/user-attachments/assets/23ba8e8a-cc7c-4711-923d-0643619d7b0c" alt="image" style="width:60%; height:auto;">
 </p>   
 
 После создания множеств программа выведит их на экран.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f6bc12b7-74a4-4f2e-b2ae-a6692e944d6d" alt="image" style="width:90%; height:auto;">
+<img src="https://github.com/user-attachments/assets/f6bc12b7-74a4-4f2e-b2ae-a6692e944d6d" alt="image" style="width:50%; height:auto;">
 </p> 
 
 ### Меню
@@ -104,7 +104,7 @@ ____
 Программа выводит все существующие множества на экран.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f6bc12b7-74a4-4f2e-b2ae-a6692e944d6d" alt="image" style="width:90%; height:auto;">
+<img src="https://github.com/user-attachments/assets/f6bc12b7-74a4-4f2e-b2ae-a6692e944d6d" alt="image" style="width:50%; height:auto;">
 </p>
 
 [:green_book:Меню](#Меню)
@@ -137,13 +137,13 @@ ____
 Пример 1
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/cee63856-6623-45da-9ec2-ec74c2b5af4a" alt="image" style="width:90%; height:auto;">
+<img src="https://github.com/user-attachments/assets/cee63856-6623-45da-9ec2-ec74c2b5af4a" alt="image" style="width:60%; height:auto;">
 </p>
 
 Пример 2
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ea920bd8-744d-4318-9541-9a788120feb2" alt="image" style="width:90%; height:auto;">
+<img src="https://github.com/user-attachments/assets/ea920bd8-744d-4318-9541-9a788120feb2" alt="image" style="width:60%; height:auto;">
 </p>
 
 [:green_book:Меню](#Меню)
